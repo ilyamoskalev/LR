@@ -1,0 +1,4 @@
+C:/Users/ilyam/Desktop/Новая папка/build/CMakeFiles/lib.dir
+C:/Users/ilyam/Desktop/Новая папка/build/CMakeFiles/main.dir
+C:/Users/ilyam/Desktop/Новая папка/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ilyam/Desktop/Новая папка/build/CMakeFiles/ZERO_CHECK.dir
