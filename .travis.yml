@@ -1,0 +1,8 @@
+language: cpp
+
+script:
+
+- cd lr2
+- mkdir build && cd build
+
+- cmake .. && make
