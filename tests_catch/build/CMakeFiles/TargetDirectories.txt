@@ -1,0 +1,4 @@
+/Users/VLADOS/desktop/tests_catch/build/CMakeFiles/edit_cache.dir
+/Users/VLADOS/desktop/tests_catch/build/CMakeFiles/rebuild_cache.dir
+/Users/VLADOS/desktop/tests_catch/build/CMakeFiles/tests.dir
+/Users/VLADOS/desktop/tests_catch/build/CMakeFiles/Test.dir
